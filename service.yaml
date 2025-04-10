@@ -3,7 +3,7 @@ kind: Service
 metadata:
   labels:
     app: java-exam-deploy
-  name: java_service
+  name: java-service
 spec:
   ports:
   - port: 8001
