@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
         - image: selmi1999/java-exam-image:latest
-        name: java-exam-image
+          name: java-exam-image
